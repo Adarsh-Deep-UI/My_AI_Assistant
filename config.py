@@ -1,0 +1,3 @@
+GEMINI_API_KEY = "AQ.Ab8RN6LvYIVdgNY2dsynLf4UQxZjWxdIgsOsMe6nlzWUc26X6w"
+ASSISTANT_NAME = "mac"
+USER_NAME = "Adars deep"
