@@ -1,3 +1,3 @@
-GEMINI_API_KEY = "AQ.Ab8RN6LvYIVdgNY2dsynLf4UQxZjWxdIgsOsMe6nlzWUc26X6w"
+GEMINI_API_KEY = "Enter Your Api To get Use "
 ASSISTANT_NAME = "mac"
 USER_NAME = "Adars deep"
